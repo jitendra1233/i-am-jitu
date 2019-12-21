@@ -1,1 +1,1 @@
-# i-am-jitu
+to find time table of any system with java
